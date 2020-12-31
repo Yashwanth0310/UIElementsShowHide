@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UIElementsShowHide</string>
+    <string name="yashwanth">Yashwanth !</string>
+    <string name="show">SHOW</string>
+    <string name="hide">HIDE</string>
+</resources>
